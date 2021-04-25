@@ -1,4 +1,5 @@
 import React from 'react';
+import './Coin.css';
 
 // volume.toLocaleString() shows commas for the prices
 
